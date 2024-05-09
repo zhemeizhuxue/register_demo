@@ -1,0 +1,12 @@
+.box {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.cancel-btn {
+  margin-left: 10px;
+}
+
+.canvas-box {
+  cursor: pointer;
+}
